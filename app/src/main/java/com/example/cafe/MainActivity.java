@@ -48,10 +48,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
-
-
-
     }
 
     public void launchNextScreen(String userName) {
